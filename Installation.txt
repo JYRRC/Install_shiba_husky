@@ -1,0 +1,23 @@
+                 ----------------------------------------------Installation method for shiba and husky Pixel 8 and Pixel 8 pro------------------------------------------------
+
+
+- fastboot flash boot boot.img
+
+
+- fastboot flash dtbo dtbo.img
+
+
+- fastboot flash vendor_kernel_boot vendor_kernel_boot.img
+
+
+- fastboot flash vendor_boot vendor_boot.img
+
+
+
+After flashing that 4 by fastboot in that order enter recovery (from options in fastboot) and you will have the lineage recovery.
+
+Flash rom zip, format data (clean installation)
+Start system
+
+Flash rom zip,start system (dirty installation)
+Start system
